@@ -1,0 +1,55 @@
+
+.App {
+  text-align: center;
+  background: linear-gradient(135deg, #f8fafc 0%, #e0e7ff 100%);
+  min-height: 100vh;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #4f46e5 0%, #6366f1 100%);
+}
+.navbar-brand, .nav-link {
+  color: #fff !important;
+  font-weight: bold;
+}
+.navbar-brand img {
+  height: 48px;
+  margin-right: 12px;
+}
+.nav-link:hover {
+  color: #a5b4fc !important;
+}
+
+h2, .App-header {
+  color: #4f46e5;
+  margin-bottom: 24px;
+}
+
+.list-group-item {
+  background: #e0e7ff;
+  color: #3730a3;
+  border: 1px solid #c7d2fe;
+}
+
+.btn {
+  background: #6366f1;
+  color: #fff;
+  border-radius: 8px;
+  margin: 8px;
+}
+.btn:hover {
+  background: #4f46e5;
+  color: #fff;
+}
+
+a {
+  color: #6366f1;
+}
+a:hover {
+  color: #4f46e5;
+}
+
+.logo-left {
+  float: left;
+  margin-right: 16px;
+}
